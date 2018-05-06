@@ -1,0 +1,22 @@
+
+criar 1
+alterar2
+excluir3
+visualizar4
+
+tb_servicos (1,2,3,4) @
+
+tb_pacote (1,2,3,4) @
+
+tb_servico_pacote(1,2,3,4) 
+
+tb_contato (1,2,3,4)
+
+tb_voucher(1,*, 2, 4)@
+
+tb_solicitacao_voucher(1,*,3, 4)
+
+tb_representante (1,2,3,4)
+
+tb_convertidos (1,*,*,4) // 1 - procedure usuario / como será feito essa inserção
+
